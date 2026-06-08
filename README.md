@@ -5,6 +5,7 @@ Un'analisi multidimensionale sulla qualità del movimento nelle metropoli italia
 🎯 Obiettivo del Progetto
 Il progetto mira a quantificare la "Libertà di Movimento" nelle 8 principali città metropolitane italiane, andando oltre la semplice efficienza dei trasporti. Attraverso l'applicazione della metodologia Mazziotta-Pareto (MPI), lo studio valuta non solo la performance media, ma anche l'equilibrio sistemico tra diverse dimensioni urbane (economiche, ambientali, infrastrutturali).
 🛠 Metodologia
+
 Il calcolo dell'indice si basa su 7 indicatori elementari normalizzati tramite Z-score. La scelta della metodologia non-compensativa MPI permette di penalizzare le città che presentano forti squilibri interni (es. eccellenze infrastrutturali vanificate da alta congestione o inquinamento), fornendo un output più aderente alla realtà della vita quotidiana dei cittadini.
 Normalizzazione: Trasformazione in Z-score (Media 100, DS 10).
 Aggregazione: Metodo Mazziotta-Pareto per la valutazione del grado di equità sistemica.
