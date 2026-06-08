@@ -1,5 +1,4 @@
-# -urban-mobility-index<br>
-Urban Mobility Index (ILMU) - MPI Approach<br>
+# Urban Mobility Index (ILMU) - MPI Approach<br>
 Un'analisi multidimensionale sulla qualità del movimento nelle metropoli italiane.<br>
 <b>🎯 Obiettivo del Progetto<br></b>
 Il progetto mira a quantificare la "Libertà di Movimento" nelle 8 principali città metropolitane italiane, andando oltre la semplice efficienza dei trasporti. Attraverso l'applicazione della metodologia Mazziotta-Pareto (MPI), lo studio valuta non solo la performance media, ma anche l'equilibrio sistemico tra diverse dimensioni urbane (economiche, ambientali, infrastrutturali).<br>
