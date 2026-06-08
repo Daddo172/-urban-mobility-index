@@ -15,6 +15,10 @@ Analisi avanzata: Confronto tra pesi arbitrari (uguali) e pesi determinati trami
 Cagliari e Bologna: I modelli di equilibrio sistemico.
 Milano: L'eccellenza "zoppa" (alta infrastruttura, alta penalità per inquinamento/stress).
 Roma: La fragilità diffusa (bassa penalità, ma performance generale insufficiente).
+🧪 Validazione Statistica Avanzata (R)
+Per garantire la massima integrità dei dati, ho condotto un'analisi esplorativa della matrice di correlazione tra gli indicatori utilizzando R. Questo passaggio è stato fondamentale per verificare la multicollinearità tra le variabili (es. quanto l'infrastruttura X2 correla con l'inquinamento X4).
+Tool: corrplot per una visualizzazione statistica avanzata.
+Scopo: Identificare se alcuni indicatori portano informazioni ridondanti nell'indice.
 💻 Tech Stack
 Data Analysis: Python (Pandas, NumPy, SciPy)
 Dimensionality Reduction: Scikit-Learn (PCA)
