@@ -14,10 +14,8 @@ Analisi avanzata: Confronto tra pesi arbitrari (uguali) e pesi determinati trami
 <img width="1067" height="610" alt="image" src="https://github.com/user-attachments/assets/375ac80f-11f8-4189-9149-b697e866c650" />
 <br>
 📊 Key Insights<br>
-(Qui inserirai un breve riassunto dopo aver eseguito il codice, es:)<br>
-Cagliari e Bologna: I modelli di equilibrio sistemico.
-Milano: L'eccellenza "zoppa" (alta infrastruttura, alta penalità per inquinamento/stress).
-Roma: La fragilità diffusa (bassa penalità, ma performance generale insufficiente).<br>
+L'analisi visiva della Figura permette di approfondire la natura dei risultati. Il caso di Milano è emblematico della metodologia Mazziotta-Pareto: pur avendo la seconda media più alta del campione (103,41), scivola al terzo posto a causa della penalità più elevata (1,69). Questo "fardello" riflette lo squilibrio tra un'eccellenza infrastrutturale (X2) e le gravi criticità ambientali e di congestione (X4, X6).<br>
+Al contrario, la città di Roma presenta la penalità più bassa del dataset (0,29). Tuttavia, in questo contesto, la bassa penalità non è un segnale di eccellenza, bensì di una "omogeneità verso il basso": la capitale risulta uniformemente carente in tutte le dimensioni, senza picchi positivi in grado di generare squilibrio. Infine, Cagliari e Bologna si confermano i modelli urbani più virtuosi, riuscendo a coniugare alti livelli di servizio con un impatto ambientale e di stress sociale contenuto, garantendo così la massima "Libertà di Movimento" ai propri cittadini.<br>
 🧪 Validazione Statistica Avanzata (R)<br>
 Per garantire la massima integrità dei dati, ho condotto un'analisi esplorativa della matrice di correlazione tra gli indicatori utilizzando R. Questo passaggio è stato fondamentale per verificare la multicollinearità tra le variabili (es. quanto l'infrastruttura X2 correla con l'inquinamento X4).<br>
 Tool: corrplot per una visualizzazione statistica avanzata.<br>
