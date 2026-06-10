@@ -26,8 +26,9 @@ Statistical Validation: R (ggplot2)<br>
 /notebooks: Analisi completa ed esecuzione MPI.<br>
 /results: Grafici e mappe finali.<br>
 ### Scomposizione Indice MPI
-![Scomposizione MPI](/results/Scomposizione_indice_MPI.png)
+<img width="1275" height="645" alt="image" src="https://github.com/user-attachments/assets/9ce4ef89-ea39-4806-b3ef-1ee6193e7db8" /><br>
 
 ### Matrice di Correlazione (R Analysis)
-![Correlazione](results/Validazione_statistica.png)
+<img width="632" height="563" alt="image" src="https://github.com/user-attachments/assets/32dedf9a-7cd5-4d34-83c6-e7ac4d165e97" /><br>
+
 Progetto sviluppato come approfondimento metodologico del Master in Data Science (Tor Vergata).
