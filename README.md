@@ -17,14 +17,14 @@ Per garantire la massima integrità dei dati, ho condotto un'analisi esplorativa
 Tool: corrplot per una visualizzazione statistica avanzata.<br>
 Scopo: Identificare se alcuni indicatori portano informazioni ridondanti nell'indice.<br>
 <b>💻 Tech Stack<br></b>
-Data Analysis: Python (Pandas, NumPy, SciPy)<br>
-Dimensionality Reduction: Scikit-Learn (PCA)<br>
-Visualization: Matplotlib, Seaborn, Folium (Geospatial)<br>
-Statistical Validation: R (ggplot2)<br>
+Data Analysis & Manipulation: Python (Pandas, NumPy, SciPy)<br>
+Methodology & PCA: Scikit-Learn (per l'implementazione della PCA)<br>
+Statistical Validation: R (con corrplot e ggplot2 per l'analisi delle correlazioni)<br>
+Visualization: Matplotlib, Seaborn<br>
 <b>📁 Struttura del Repository<br></b>
 /data: Dataset grezzo e normalizzato.<br>
 /notebooks: Analisi completa ed esecuzione MPI.<br>
-/results: Grafici e mappe finali.<br>
+/results: Grafici e mappe finali.
 ### Scomposizione Indice MPI
 <img width="1275" height="645" alt="image" src="https://github.com/user-attachments/assets/9ce4ef89-ea39-4806-b3ef-1ee6193e7db8" /><br>
 
