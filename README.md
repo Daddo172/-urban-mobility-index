@@ -25,4 +25,9 @@ Statistical Validation: R (ggplot2)<br>
 /data: Dataset grezzo e normalizzato.<br>
 /notebooks: Analisi completa ed esecuzione MPI.<br>
 /results: Grafici e mappe finali.<br>
+### Scomposizione Indice MPI
+![Scomposizione MPI](/results/Scomposizione_indice_MPI.png)
+
+### Matrice di Correlazione (R Analysis)
+![Correlazione](results/Validazione_statistica.png)
 Progetto sviluppato come approfondimento metodologico del Master in Data Science (Tor Vergata).
