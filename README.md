@@ -15,7 +15,6 @@ Al contrario, la città di Roma presenta la penalità più bassa del dataset (0,
 <b>🧪 Validazione Statistica Avanzata (R)<br></b>
 Per garantire la massima integrità dei dati, ho condotto un'analisi esplorativa della matrice di correlazione tra gli indicatori utilizzando R. Questo passaggio è stato fondamentale per verificare la multicollinearità tra le variabili (es. quanto l'infrastruttura X2 correla con l'inquinamento X4).<br>
 Tool: corrplot per una visualizzazione statistica avanzata.<br>
-<br>
 Scopo: Identificare se alcuni indicatori portano informazioni ridondanti nell'indice.<br>
 <b>💻 Tech Stack<br></b>
 Data Analysis: Python (Pandas, NumPy, SciPy)<br>
